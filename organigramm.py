@@ -125,7 +125,7 @@ def persons_add_width(person: dict[str, str]) -> int:
         len(person['Vorname']) + len(person['Nachname']) + 1
     )
 
-    a = -9.9
+    a = -7.8
     b = -0.022
     c = 15
     r = a * np.exp(b * max_length) + c
