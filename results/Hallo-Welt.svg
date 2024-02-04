@@ -1,0 +1,287 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1734.131943660319px" height="1192" viewBox="-0.5 -0.5 1734.131943660319 1192">    <g>
+        <rect x="0" y="0" width="1733.131943660319" height="1191" fill="none" stroke="#000000" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1191_minus_twopx; height: 2px; padding-top: 14px; margin-left: 2px;">
+                        <div data-drawio-colors="color: #000000; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div
+                                style="display: inline-block; font-size: 40px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 40px;">Hallo-Welt</font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject><text x="265" y="19" fill="#000000" font-family="Helvetica" font-size="40px"
+                    text-anchor="middle">Hallo-Welt</text>
+            </switch>
+        </g>
+            <g>
+        <rect x="120.0" y="120.0" width="744.5659718301595" height="330" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 574.5659718301595px; height: 2px; padding-top: 134.0px; margin-left: 134.0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); "
+                            style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font color="#000000">Koordinator ist eine sehr sehr lange Position</font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="7" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px"></text> -->
+            </switch>
+        </g>
+        <rect x="120.0" y="120.0" width="744.5659718301595" height="330" fill="none" stroke="none" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 2px; height: 2px; padding-top: 329.0px; margin-left: 840.5659718301595px;">
+                        <div data-drawio-colors="color: #000000; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: right;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Max Mustermann<br />
+                                <a href="mailto:max.mustermann%40example.com" style="color: #000000; text-decoration: none">max.mustermann@example.com</a><br />
+                                <a href="tel:0123123456" style="color: #000000; text-decoration: none">0123 / 123456</a><br />
+                                <a href="https://www.openstreetmap.org/search?query=Musterstraße 123, 12345 Musterstadt" style="color: #000000; text-decoration: none">Musterstraße 123, 12345 Musterstadt</a><br />
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="258" y="74" fill="#000000" font-family="Helvetica" font-size="32px" text-anchor="end">max.mustermann@example.com...</text> -->
+            </switch>
+        </g>
+        <image x="143.0" y="217.0" width="160" height="212"
+            xlink:href="https://images.pexels.com/photos/412840/pexels-photo-412840.jpeg"
+            preserveAspectRatio="none" />
+        <image x="733.5659718301595" y="129.0" width="111"
+            xlink:href="https://qrcode.tec-it.com/API/QRCode?data=BEGIN%3aVCARD%0d%0aVERSION%3a3.0%0d%0aFN%3bCHARSET%3dUTF-8%3aMax+Mustermann%0d%0aN%3bCHARSET%3dUTF-8%3amustermann%3bmax%3b%3b%3b%0d%0aTEL%3bTYPE%3dHOME%2cVOICE%3a0123123456%0d%0aEMAIL%3amax.mustermann%40example.com%0d%0aORG%3bCHARSET%3dUTF-8%3aHallo-Welt%0d%0aADR%3bCHARSET%3dUTF-8%3aMusterstra%C3%9Fe%20123%2C%2012345%20Musterstadt%0d%0aURL%3ahttps%3A//example.com%0d%0aEND%3aVCARD&amp;errorcorrection=M&amp;backcolor=%23ffffff&amp;quietzone=2"
+            preserveAspectRatio="xMidYMid slice" />
+    </g>
+
+    <g>
+        <rect x="906.5659718301595" y="137.5" width="744.5659718301595" height="295" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 574.5659718301595px; height: 2px; padding-top: 151.5px; margin-left: 920.5659718301595px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); "
+                            style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font color="#000000">Leitung</font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="7" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px"></text> -->
+            </switch>
+        </g>
+        <rect x="906.5659718301595" y="137.5" width="744.5659718301595" height="295" fill="none" stroke="none" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 2px; height: 2px; padding-top: 306.5px; margin-left: 1627.131943660319px;">
+                        <div data-drawio-colors="color: #000000; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: right;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Bellatrix Vogel<br />
+                                <!--<a href="mailto:" style="color: #000000; text-decoration: none"></a><br />-->
+                                <!--<a href="tel:" style="color: #000000; text-decoration: none"></a><br />-->
+                                <a href="https://www.openstreetmap.org/search?query=Hauptstraße 19, 54321 Beispielstadt" style="color: #000000; text-decoration: none">Hauptstraße 19, 54321 Beispielstadt</a><br />
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="258" y="74" fill="#000000" font-family="Helvetica" font-size="32px" text-anchor="end">...</text> -->
+            </switch>
+        </g>
+        <image x="929.5659718301595" y="199.5" width="160" height="212"
+            xlink:href="https://pixnio.com/free-images/2017/06/23/2017-06-23-07-07-48-550x737.jpg"
+            preserveAspectRatio="none" />
+        <image x="1520.131943660319" y="146.5" width="111"
+            xlink:href="https://qrcode.tec-it.com/API/QRCode?data=BEGIN%3aVCARD%0d%0aVERSION%3a3.0%0d%0aFN%3bCHARSET%3dUTF-8%3aBellatrix+Vogel%0d%0aN%3bCHARSET%3dUTF-8%3avogel%3bbellatrix%3b%3b%3b%0d%0aTEL%3bTYPE%3dHOME%2cVOICE%3a%0d%0aEMAIL%3a%0d%0aORG%3bCHARSET%3dUTF-8%3aHallo-Welt%0d%0aADR%3bCHARSET%3dUTF-8%3aHauptstra%C3%9Fe%2019%2C%2054321%20Beispielstadt%0d%0aURL%3ahttps%3A//example.com%0d%0aEND%3aVCARD&amp;errorcorrection=M&amp;backcolor=%23ffffff&amp;quietzone=2"
+            preserveAspectRatio="xMidYMid slice" />
+    </g>
+
+    <g>
+        <rect x="140.62809002186157" y="512.0" width="703.3097917864363" height="295" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 533.3097917864363px; height: 2px; padding-top: 526.0px; margin-left: 154.62809002186157px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); "
+                            style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font color="#000000">Assistenz</font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="7" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px"></text> -->
+            </switch>
+        </g>
+        <rect x="140.62809002186157" y="512.0" width="703.3097917864363" height="295" fill="none" stroke="none" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 2px; height: 2px; padding-top: 701.0px; margin-left: 819.9378818082979px;">
+                        <div data-drawio-colors="color: #000000; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: right;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Anna Schmidt<br />
+                                <!--<a href="mailto:" style="color: #000000; text-decoration: none"></a><br />-->
+                                <a href="tel:05437987654" style="color: #000000; text-decoration: none">05437 / 987654</a><br />
+                                <a href="https://www.openstreetmap.org/search?query=Musterweg 456, 54321 Musterstadt" style="color: #000000; text-decoration: none">Musterweg 456, 54321 Musterstadt</a><br />
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="258" y="74" fill="#000000" font-family="Helvetica" font-size="32px" text-anchor="end">...</text> -->
+            </switch>
+        </g>
+        <image x="163.62809002186157" y="574.0" width="160" height="212"
+            xlink:href="https://images.pexels.com/photos/2225566/pexels-photo-2225566.jpeg"
+            preserveAspectRatio="none" />
+        <image x="712.9378818082979" y="521.0" width="111"
+            xlink:href="https://qrcode.tec-it.com/API/QRCode?data=BEGIN%3aVCARD%0d%0aVERSION%3a3.0%0d%0aFN%3bCHARSET%3dUTF-8%3aAnna+Schmidt%0d%0aN%3bCHARSET%3dUTF-8%3aschmidt%3banna%3b%3b%3b%0d%0aTEL%3bTYPE%3dHOME%2cVOICE%3a05437987654%0d%0aEMAIL%3a%0d%0aORG%3bCHARSET%3dUTF-8%3aHallo-Welt%0d%0aADR%3bCHARSET%3dUTF-8%3aMusterweg%20456%2C%2054321%20Musterstadt%0d%0aURL%3ahttps%3A//example.com%0d%0aEND%3aVCARD&amp;errorcorrection=M&amp;backcolor=%23ffffff&amp;quietzone=2"
+            preserveAspectRatio="xMidYMid slice" />
+    </g>
+
+    <g>
+        <rect x="1053.573638244382" y="477.0" width="450.5506390017146" height="365" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 280.5506390017146px; height: 2px; padding-top: 491.0px; margin-left: 1067.573638244382px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); "
+                            style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font color="#000000">Betreuer für künstliche Beispiele</font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="7" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px"></text> -->
+            </switch>
+        </g>
+        <rect x="1053.573638244382" y="477.0" width="450.5506390017146" height="365" fill="none" stroke="none" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 2px; height: 2px; padding-top: 626.0px; margin-left: 1480.1242772460967px;">
+                        <div data-drawio-colors="color: #000000; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: right;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Nico Essen<br />
+                                <!--<a href="mailto:" style="color: #000000; text-decoration: none"></a><br />-->
+                                <!--<a href="tel:" style="color: #000000; text-decoration: none"></a><br />-->
+                                <!--<a href="https://www.openstreetmap.org/search?query=" style="color: #000000; text-decoration: none"></a><br />-->
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="258" y="74" fill="#000000" font-family="Helvetica" font-size="32px" text-anchor="end">...</text> -->
+            </switch>
+        </g>
+        <image x="1076.573638244382" y="609.0" width="160" height="212"
+            xlink:href="https://get.pxhere.com/photo/man-nature-person-people-woman-hair-boy-male-portrait-young-human-pink-facial-expression-hairstyle-smile-laugh-son-face-happy-eye-pretty-laughter-teen-emotion-friendly-young-people-portrait-photography-947184.jpg"
+            preserveAspectRatio="none" />
+        <image x="1373.1242772460967" y="486.0" width="111"
+            xlink:href="https://qrcode.tec-it.com/API/QRCode?data=BEGIN%3aVCARD%0d%0aVERSION%3a3.0%0d%0aFN%3bCHARSET%3dUTF-8%3aNico+Essen%0d%0aN%3bCHARSET%3dUTF-8%3aessen%3bnico%3b%3b%3b%0d%0aTEL%3bTYPE%3dHOME%2cVOICE%3a%0d%0aEMAIL%3a%0d%0aORG%3bCHARSET%3dUTF-8%3aHallo-Welt%0d%0aADR%3bCHARSET%3dUTF-8%3a%0d%0aURL%3ahttps%3A//example.com%0d%0aEND%3aVCARD&amp;errorcorrection=M&amp;backcolor=%23ffffff&amp;quietzone=2"
+            preserveAspectRatio="xMidYMid slice" />
+    </g>
+
+    <g>
+        <rect x="520.2244203427585" y="869.0" width="730.6831029748017" height="295" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 560.6831029748017px; height: 2px; padding-top: 883.0px; margin-left: 534.2244203427585px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); "
+                            style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font color="#000000">Pädagogische Leitung</font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="7" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px"></text> -->
+            </switch>
+        </g>
+        <rect x="520.2244203427585" y="869.0" width="730.6831029748017" height="295" fill="none" stroke="none" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 2px; height: 2px; padding-top: 1078.0px; margin-left: 1226.9075233175604px;">
+                        <div data-drawio-colors="color: #000000; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: right;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Janina Müller<br />
+                                <a href="mailto:janina.mueller%40example.com" style="color: #000000; text-decoration: none">janina.mueller@example.com</a><br />
+                                <a href="tel:0987111222" style="color: #000000; text-decoration: none">0987 / 111222</a><br />
+                                <a href="https://www.openstreetmap.org/search?query=Musterplatz 789, 98765 Musterstadt" style="color: #000000; text-decoration: none">Musterplatz 789, 98765 Musterstadt</a><br />
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="258" y="74" fill="#000000" font-family="Helvetica" font-size="32px" text-anchor="end">janina.mueller@example.com...</text> -->
+            </switch>
+        </g>
+        <image x="543.2244203427585" y="931.0" width="160" height="212"
+            xlink:href="https://cdn.pixabay.com/photo/2013/02/21/19/02/alpaca-84477_960_720.jpg"
+            preserveAspectRatio="none" />
+        <image x="1119.9075233175604" y="878.0" width="111"
+            xlink:href="https://qrcode.tec-it.com/API/QRCode?data=BEGIN%3aVCARD%0d%0aVERSION%3a3.0%0d%0aFN%3bCHARSET%3dUTF-8%3aJanina+Müller%0d%0aN%3bCHARSET%3dUTF-8%3amüller%3bjanina%3b%3b%3b%0d%0aTEL%3bTYPE%3dHOME%2cVOICE%3a0987111222%0d%0aEMAIL%3ajanina.mueller%40example.com%0d%0aORG%3bCHARSET%3dUTF-8%3aHallo-Welt%0d%0aADR%3bCHARSET%3dUTF-8%3aMusterplatz%20789%2C%2098765%20Musterstadt%0d%0aURL%3ahttps%3A//example.com%0d%0aEND%3aVCARD&amp;errorcorrection=M&amp;backcolor=%23ffffff&amp;quietzone=2"
+            preserveAspectRatio="xMidYMid slice" />
+    </g>
+
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" /><a transform="translate(0,-5)"
+            xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank"><text
+                text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text></a>
+    </switch></svg>

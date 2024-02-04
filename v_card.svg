@@ -1,0 +1,51 @@
+    <g>
+        <rect x="rel_x" y="rel_y" width="full_width" height="full_height" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: position_widthpx; height: 2px; padding-top: name_ypx; margin-left: name_xpx;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); "
+                            style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font color="#000000">Position</font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="7" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px"></text> -->
+            </switch>
+        </g>
+        <rect x="rel_x" y="rel_y" width="full_width" height="full_height" fill="none" stroke="none" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 2px; height: 2px; padding-top: address_ypx; margin-left: address_xpx;">
+                        <div data-drawio-colors="color: #000000; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: right;">
+                            <div
+                                style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                First_Name Last_Name<br />
+                                pre_mail<a href="mailto:email_address" style="color: #000000; text-decoration: none">Email_Address</a><br />post_mail
+                                pre_phone<a href="tel:phone_address" style="color: #000000; text-decoration: none">Phone_Address</a><br />post_phone
+                                pre_address<a href="https://www.openstreetmap.org/search?query=Office_Address" style="color: #000000; text-decoration: none">Office_Address</a><br />post_address
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <!-- <text x="258" y="74" fill="#000000" font-family="Helvetica" font-size="32px" text-anchor="end">Email_Address...</text> -->
+            </switch>
+        </g>
+        <image x="img_x" y="img_y" width="160" height="212"
+            xlink:href="image_address"
+            preserveAspectRatio="none" />
+        <image x="qr_x" y="qr_y" width="111"
+            xlink:href="https://qrcode.tec-it.com/API/QRCode?data=BEGIN%3aVCARD%0d%0aVERSION%3a3.0%0d%0aFN%3bCHARSET%3dUTF-8%3aFirst_Name+Last_Name%0d%0aN%3bCHARSET%3dUTF-8%3alast_name%3bfirst_name%3b%3b%3b%0d%0aTEL%3bTYPE%3dHOME%2cVOICE%3aphone_address%0d%0aEMAIL%3aemail_address%0d%0aORG%3bCHARSET%3dUTF-8%3aorganization%0d%0aADR%3bCHARSET%3dUTF-8%3aoffice_address%0d%0aURL%3aweb_address%0d%0aEND%3aVCARD&amp;errorcorrection=M&amp;backcolor=%23ffffff&amp;quietzone=2"
+            preserveAspectRatio="xMidYMid slice" />
+    </g>

@@ -1,0 +1,42 @@
+- Hallo-Welt:
+    - 1:
+        - Position: "Koordinator ist eine sehr sehr lange Position"
+        - Positionszeilen: 2
+        - Vorname: "Max"
+        - Nachname: "Mustermann"
+        - Mail: "max.mustermann@example.com"
+        - Telefon: "0123 / 123456"
+        - Adresse: "Musterstraße 123, 12345 Musterstadt"
+        - Bild: "https://images.pexels.com/photos/412840/pexels-photo-412840.jpeg"
+        - Website: "https://example.com"
+    - 2:
+        - Position: "Leitung"
+        - Vorname: "Bellatrix"
+        - Nachname: "Vogel"
+        - Adresse: "Hauptstraße 19, 54321 Beispielstadt"
+        - Bild: "https://pixnio.com/free-images/2017/06/23/2017-06-23-07-07-48-550x737.jpg"
+        - Website: "https://example.com"
+    - 3:
+        - Position: "Assistenz"
+        - Vorname: "Anna"
+        - Nachname: "Schmidt"
+        - Telefon: "05437 / 987654"
+        - Adresse: "Musterweg 456, 54321 Musterstadt"
+        - Bild: "https://images.pexels.com/photos/2225566/pexels-photo-2225566.jpeg"
+        - Website: "https://example.com"
+    - 4:
+        - Position: "Betreuer für künstliche Beispiele"
+        - Positionszeilen: 3
+        - Vorname: "Nico"
+        - Nachname: "Essen"
+        - Bild: "https://get.pxhere.com/photo/man-nature-person-people-woman-hair-boy-male-portrait-young-human-pink-facial-expression-hairstyle-smile-laugh-son-face-happy-eye-pretty-laughter-teen-emotion-friendly-young-people-portrait-photography-947184.jpg"
+        - Website: "https://example.com"
+    - 5:
+        - Position: "Pädagogische Leitung"
+        - Vorname: "Janina"
+        - Nachname: "Müller"
+        - Mail: "janina.mueller@example.com"
+        - Telefon: "0987 / 111222"
+        - Adresse: "Musterplatz 789, 98765 Musterstadt"
+        - Bild: "https://cdn.pixabay.com/photo/2013/02/21/19/02/alpaca-84477_960_720.jpg"
+        - Website: "https://example.com"
